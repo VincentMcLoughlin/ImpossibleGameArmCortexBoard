@@ -1,2 +1,2 @@
 # ImpossibleGameArmCortexBoard
-Created for one of my courses at university, this project is a version of the popular platform designed for the an Arm micro controller.
+Created for one of my courses at university, this project is a version of the popular platform "The impossible game" designed for an Arm micro controller. The game was controlled using a combination of push buttons for jumping, and potentiometer to control the speed of the game. All drawing to the LCD screen was done by myself and my partner. Only the most necessary files have been included in this project to reduce the risk of plagiarism.
